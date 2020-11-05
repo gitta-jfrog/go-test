@@ -1,4 +1,4 @@
-module go-hello
+module github.com/gitta-jfrog/go-test
 
 require google.golang.org/grpc v1.27.0
 
